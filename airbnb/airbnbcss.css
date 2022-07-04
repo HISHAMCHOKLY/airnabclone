@@ -1,0 +1,36 @@
+.userlogo{
+    height: 5vh;
+}
+.bg{
+    background-color: blue;
+}
+.bg2{
+    background-color: black;
+}
+.br{
+    border-radius: 30px;
+}
+.logos{
+    width: 55px;
+    height: 35px;
+}
+.im{
+    width: 100%;
+    border-radius: 10px;
+    height: 50vh;
+}
+
+.p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.hdp{
+    font-size: 13px;
+}
+.body{
+    width: 90%;
+    margin-left: 5%;
+}
+.p2{
+    font-size: 20px;
+}
